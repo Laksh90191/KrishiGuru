@@ -1,0 +1,82 @@
+[
+  {
+    "crop": "Rice",
+    "pest": "Brown Planthopper",
+    "pesticide": "Imidacloprid 17.8 SL",
+    "dose": "0.3 ml/L water",
+    "application": "Foliar Spray",
+    "safety": "Wear gloves while spraying."
+  },
+  {
+    "crop": "Rice",
+    "pest": "Stem Borer",
+    "pesticide": "Chlorantraniliprole 18.5 SC",
+    "dose": "0.4 ml/L water",
+    "application": "Foliar Spray",
+    "safety": "Avoid spraying during strong winds."
+  },
+  {
+    "crop": "Wheat",
+    "pest": "Aphids",
+    "pesticide": "Thiamethoxam 25 WG",
+    "dose": "0.25 g/L water",
+    "application": "Foliar Spray",
+    "safety": "Use protective clothing."
+  },
+  {
+    "crop": "Cotton",
+    "pest": "Pink Bollworm",
+    "pesticide": "Emamectin Benzoate 5 SG",
+    "dose": "0.4 g/L water",
+    "application": "Foliar Spray",
+    "safety": "Wear a face mask while spraying."
+  },
+  {
+    "crop": "Tomato",
+    "pest": "Fruit Borer",
+    "pesticide": "Spinosad 45 SC",
+    "dose": "0.3 ml/L water",
+    "application": "Foliar Spray",
+    "safety": "Keep away from children."
+  },
+  {
+    "crop": "Chilli",
+    "pest": "Thrips",
+    "pesticide": "Fipronil 5 SC",
+    "dose": "1 ml/L water",
+    "application": "Foliar Spray",
+    "safety": "Avoid skin contact."
+  },
+  {
+    "crop": "Sugarcane",
+    "pest": "Early Shoot Borer",
+    "pesticide": "Chlorpyrifos 20 EC",
+    "dose": "2 ml/L water",
+    "application": "Root Zone Application",
+    "safety": "Do not contaminate water bodies."
+  },
+  {
+    "crop": "Maize",
+    "pest": "Fall Armyworm",
+    "pesticide": "Chlorantraniliprole 18.5 SC",
+    "dose": "0.4 ml/L water",
+    "application": "Foliar Spray",
+    "safety": "Spray in the early morning or evening."
+  },
+  {
+    "crop": "Groundnut",
+    "pest": "Leaf Miner",
+    "pesticide": "Lambda-cyhalothrin 5 EC",
+    "dose": "0.5 ml/L water",
+    "application": "Foliar Spray",
+    "safety": "Wear gloves."
+  },
+  {
+    "crop": "Soybean",
+    "pest": "Girdle Beetle",
+    "pesticide": "Quinalphos 25 EC",
+    "dose": "2 ml/L water",
+    "application": "Foliar Spray",
+    "safety": "Avoid inhaling the spray."
+  }
+]

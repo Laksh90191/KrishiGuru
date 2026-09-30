@@ -1,0 +1,13 @@
+{
+  "appTitle": "KrishiGuru",
+  "weather": "Weather",
+  "soilHealth": "Soil Health",
+  "fertilizer": "Fertilizer",
+  "cropRecommendation": "Crop Recommendation",
+  "cropCalendar": "Crop Calendar",
+  "diseaseDetection": "Disease Detection",
+  "marketPrices": "Market Prices",
+  "pesticides": "Pesticides",
+  "yieldProfit": "Yield & Profit",
+  "language": "Language"
+}

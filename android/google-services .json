@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831882860571",
+    "project_id": "krishiguru-2a58f",
+    "storage_bucket": "krishiguru-2a58f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831882860571:android:4e9828b516fe9cee4a80be",
+        "android_client_info": {
+          "package_name": "com.example.krishiguru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5hERrjHU-Fw13luHDcEgCXugJxQxzmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

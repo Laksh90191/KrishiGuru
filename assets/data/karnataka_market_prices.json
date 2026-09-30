@@ -1,0 +1,20 @@
+[
+  {
+    "district": "Bengaluru Urban",
+    "market": "Yeshwanthpur APMC",
+    "crop": "Tomato",
+    "price": "₹1800/Quintal"
+  },
+  {
+    "district": "Mysuru",
+    "market": "Mysuru APMC",
+    "crop": "Rice",
+    "price": "₹2400/Quintal"
+  },
+  {
+    "district": "Mandya",
+    "market": "Mandya APMC",
+    "crop": "Sugarcane",
+    "price": "₹350/Quintal"
+  }
+]

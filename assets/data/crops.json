@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Rice",
+    "season": "Kharif",
+    "sowing": "June-July",
+    "harvest": "October-November",
+    "water": "High",
+    "fertilizer": "NPK 120:60:40",
+    "pests": "Stem Borer, Leaf Folder"
+  },
+  {
+    "name": "Ragi",
+    "season": "Kharif",
+    "sowing": "June-July",
+    "harvest": "October",
+    "water": "Medium",
+    "fertilizer": "NPK 50:40:25",
+    "pests": "Shoot Fly"
+  },
+  {
+    "name": "Maize",
+    "season": "Kharif/Rabi",
+    "sowing": "June, October",
+    "harvest": "September, January",
+    "water": "Medium",
+    "fertilizer": "NPK 150:75:40",
+    "pests": "Fall Armyworm"
+  },
+  {
+    "name": "Cotton",
+    "season": "Kharif",
+    "sowing": "May-June",
+    "harvest": "October-January",
+    "water": "Medium",
+    "fertilizer": "NPK 100:50:50",
+    "pests": "Pink Bollworm"
+  },
+  {
+    "name": "Sugarcane",
+    "season": "Annual",
+    "sowing": "January-March",
+    "harvest": "12 Months",
+    "water": "High",
+    "fertilizer": "NPK 250:100:125",
+    "pests": "Early Shoot Borer"
+  }
+]
