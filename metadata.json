@@ -1,0 +1,8 @@
+{
+  "name": "KrishiGuru",
+  "description": "Comprehensive smart farming advisor providing weather forecasts, soil health analysis, fertilizer & crop recommendations, crop calendar, disease detection, market prices, and yield profit calculator in English and Kannada.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

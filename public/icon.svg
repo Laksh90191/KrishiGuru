@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#047857"/>
+      <stop offset="50%" stop-color="#065f46"/>
+      <stop offset="100%" stop-color="#064e3b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="40%" stop-color="#facc15"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#86efac"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background rounded rect -->
+  <rect width="512" height="512" rx="100" fill="url(#bg)"/>
+
+  <!-- Subtle inner border -->
+  <rect x="16" y="16" width="480" height="480" rx="88" fill="none" stroke="#34d399" stroke-width="4" stroke-opacity="0.3"/>
+
+  <!-- Sun Rays & Glow -->
+  <circle cx="256" cy="180" r="110" fill="#fde047" fill-opacity="0.15"/>
+  <circle cx="256" cy="180" r="70" fill="#facc15" fill-opacity="0.25"/>
+
+  <!-- Central Rice Ear & Sprout -->
+  <g transform="translate(256, 260)">
+    <!-- Main stem -->
+    <path d="M0,150 Q10,20 0,-140" fill="none" stroke="#fef08a" stroke-width="10" stroke-linecap="round"/>
+
+    <!-- Left grain nodes -->
+    <path d="M-8,-110 C-45,-125 -65,-95 -10,-75 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M-8,-65 C-55,-80 -75,-45 -10,-30 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M-8,-20 C-60,-35 -80,5 -10,15 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M-6,25 C-55,10 -70,50 -8,60 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+
+    <!-- Right grain nodes -->
+    <path d="M8,-130 C45,-145 65,-115 10,-95 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M8,-85 C55,-100 75,-65 10,-50 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M8,-40 C60,-55 80,-15 10,-5 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M6,5 C55,-10 70,30 8,40 Z" fill="url(#gold)" stroke="#ca8a04" stroke-width="2"/>
+
+    <!-- Top grain -->
+    <path d="M0,-140 C-20,-175 20,-175 0,-140 Z" fill="url(#gold)"/>
+
+    <!-- Supporting lush green leaves -->
+    <path d="M-5,140 C-80,110 -150,50 -130,-10 C-100,50 -50,110 0,140 Z" fill="url(#leaf)" fill-opacity="0.9"/>
+    <path d="M5,140 C80,110 150,50 130,-10 C100,50 50,110 0,140 Z" fill="url(#leaf)" fill-opacity="0.9"/>
+  </g>
+
+  <!-- Title Pill at bottom -->
+  <g transform="translate(256, 440)">
+    <rect x="-110" y="-22" width="220" height="44" rx="22" fill="#064e3b" stroke="#34d399" stroke-width="2" stroke-opacity="0.4"/>
+    <text text-anchor="middle" y="7" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="20" font-weight="800" fill="#ffffff" letter-spacing="1">KRISHIGURU</text>
+  </g>
+</svg>
